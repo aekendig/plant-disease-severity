@@ -11,13 +11,9 @@ function getTitleStripExtension() {
   return t; 
 } 
 
-input="/Users/AmyKendig/Google Drive/Microstegium Bipolaris/Leaf Scans/Leaf Scans Sep 2018 Ev/Leaf Scans Sep 2018 Ev Edited";
-outputIm="/Users/AmyKendig/Google Drive/Microstegium Bipolaris/Leaf Scans/FIJI Image Output Sep 2018";
-outputRes="/Users/AmyKendig/Google Drive/Microstegium Bipolaris/Leaf Scans/FIJI Results Output Sep 2018";
-
-//input="/Users/AmyKendig/Google Drive/Microstegium Bipolaris/Leaf Scans/Trial Ev Scans";
-//outputIm="/Users/AmyKendig/Google Drive/Microstegium Bipolaris/Leaf Scans/Trial Ev Scans";
-//outputRes="/Users/AmyKendig/Google Drive/Microstegium Bipolaris/Leaf Scans/Trial Ev Scans";
+input=//enter input folder path;
+outputIm=//enter output image folder path;
+outputRes=//enter output text results folder path;
 
 suffix1=".tiff"; //Store potential suffixes as variables
 suffix2=".tif";

@@ -11,17 +11,9 @@ function getTitleStripExtension() {
   return t; 
 } 
 
-//input="/Users/Chris/Desktop/test_input"
-//outputIm="/Users/Chris/Desktop/test_output"
-//outputRes="/Users/Chris/Desktop/test_output"
-
-//input="/Users/Chris/Desktop/Mv_Jul_2018_Fiji_Input";
-//outputIm="/Users/Chris/Desktop/Mv_Jul_2018_Fiji_Image_Output";
-//outputRes="/Users/Chris/Desktop/Mv_Jul_2018_Fiji_Results_Output";
-
-input="/Users/Chris/Desktop/Mv_Jul_2018_edits";
-outputIm="/Users/Chris/Desktop/Mv_Jul_2018_edits_Images";
-outputRes="/Users/Chris/Desktop/Mv_Jul_2018_edits_Results";
+input=//enter input folder path;
+outputIm=//enter output image folder path;
+outputRes=//enter output text results folder path;
 
 suffix1=".tif"; //Store potential suffixes as variables
 suffix2=".tiff";
